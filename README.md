@@ -7,6 +7,6 @@ The Backend app is already packaged into as .jar file in the target folder. So t
 java -jar blog-app-0.0.1-SNAPSHOT.jar
 ```
 The jar file is a self contained package containing the Tomcat container along side with all dependencies need to run and serve the 
-Backend endpoints for the frontend phase of the [ blog post app creeated using Vuejs ](https://github.com/matfolio/blog-app/README.md) 
+Backend endpoints for the frontend phase of the [ blog post app creeated using Vuejs ](https://github.com/matfolio/blog-app) 
 
 

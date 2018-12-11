@@ -21,12 +21,10 @@
 *.ipr
 
 
-### log  ###
-
+### Log  ###
 .log 
 
 ### cmd  ###
-
 .cmd
 ### NetBeans ###
 
